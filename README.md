@@ -1,8 +1,8 @@
 # Mareena
 # second level heading
 ### Third level heading 
-**bold** #two asterisks
-*italic* #one asterisks
+**bold** 
+*italic* 
 #### Linux Shell Commands
  Command | Explanation |
 |--                 |--                   |
